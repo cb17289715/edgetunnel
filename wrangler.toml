@@ -1,5 +1,4 @@
-name = 'ddffssnowy-snowflake-f89f'"
+name = "ddffssnowy-snowflake-f89f"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
-
 keep_vars = true
